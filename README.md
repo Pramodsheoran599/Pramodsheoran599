@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pramod Sheoran
-- 👀 I’m interested in Computers
 - 🌱 I’m currently learning Data Science
 - 💞️ I would love to collaborate with you.
 - 📫 Reach me on pramodsheoran599@gmail.com
